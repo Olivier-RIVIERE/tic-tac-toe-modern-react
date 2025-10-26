@@ -13,11 +13,6 @@ An updated and visually enhanced version of the classic Tic Tac Toe game, built 
 - Responsive design for all devices
 - Clean React component structure
 
-## 🚀 Live Demo
-
-[View Live Demo](https://olivier-RIVIERE.github.io/tic-tac-toe-modern-react)
-
-
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
