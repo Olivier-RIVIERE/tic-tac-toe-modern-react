@@ -13,12 +13,16 @@ An updated and visually enhanced version of the classic Tic Tac Toe game, built 
 - Responsive design for all devices
 - Clean React component structure
 
+## 🚀 Live Demo
+
+[View Live Demo](https://olivier-RIVIERE.github.io/tic-tac-toe-modern-react)
+
 
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
-git clone https://github.com/YOUR-USERNAME/tic-tac-toe-modern-react.git
-cd tic-tac-toe-modern-react
+- git clone https://github.com/YOUR-USERNAME/tic-tac-toe-modern-react.git
+- cd tic-tac-toe-modern-react
 
 2. **Install dependencies:**
 
@@ -55,6 +59,15 @@ Contributions are welcome! Feel free to open an issue, suggest enhancements, or 
 ## 📝 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## 👤 Author
+
+**Olivier RIVIERE**
+
+- GitHub: [@Olivier-RIVIERE](https://github.com/Olivier-RIVIERE)
+- My portfolio: [Olivier RIVIERE](https://portfolio-olivier-riviere.vercel.app)
+- LinkedIn: [Olivier RIVIERE](https://www.linkedin.com/in/olivierriviere/)
+
 
 ## 🔗 References
 
